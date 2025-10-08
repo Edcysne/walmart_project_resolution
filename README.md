@@ -2,6 +2,12 @@
 
 This is a data analysis project that simulates a real-life problem faced by Walmart. The company has been losing money due to missing products during delivery and wants to understand why this is happening and what can be done to prevent it. If I delay committing, it’s because I’m balancing a 9–5 job and college at the same time 😅.
 
+### Main Tools 
+
+💾 SQL - For querying the data
+🐍 Python - For EDA
+📈 Power BI - For data visualization
+
 ## 1st Part
 
 The first part is to join all five .csv documents received using **SQL**. In real life, I would use **Excel** since the files are very small, but the SQL queries are just for practice.
